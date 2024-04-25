@@ -1,6 +1,6 @@
 # Airbnb Experience Web Page
 
-This is my second project using React JS. In this project, I learned about the concept of props. The Airbnb Experience web page consists of three components: nav, hero, and card. The card component is designed with props to make it reusable. It fetches the data from data.js and creates new cards using this data in my App.js.
+This is my second project using React JS. In this project, I learned about the concept of props. The Airbnb Experience web page consists of three components: nav, hero, and card. The card component is designed with props to make it reusable. App.js fetches the data from data.js and creates new cards using this data.
 
 ## Design
 
